@@ -1,0 +1,1 @@
+# my-merge-conflict-project
